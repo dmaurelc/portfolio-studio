@@ -2,7 +2,7 @@
 
 Aplicación web para generar y presentar capturas profesionales de sitios web en fichas de portfolio. Recibe una o varias URLs, detecta secciones relevantes, captura cada vista y permite aplicar una presentación visual consistente antes de descargar las imágenes.
 
-![Interfaz de Portfolio Studio](docs/portfolio-studio-cover.jpg)
+![Interfaz de Portfolio Studio](docs/portfolio-studio-cover.jpg?v=2)
 
 ## Características
 
