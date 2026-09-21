@@ -47,3 +47,6 @@ next-env.d.ts
 
 .dev.vars*
 *.tsbuildinfo
+
+# Working artifacts (brainstorm/plan sessions)
+/plans/
