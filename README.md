@@ -126,4 +126,4 @@ En producción deben configurarse `CAPTURE_ENDPOINT` y `CAPTURE_SECRET` como var
 
 ## Licencia
 
-Proyecto privado de desarrollo publicado como código fuente por Daniel Maurel. No se ha definido todavía una licencia de redistribución.
+Copyright © Daniel Maurel. El repositorio no incluye todavía una licencia de redistribución.
