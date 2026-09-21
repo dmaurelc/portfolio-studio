@@ -1,0 +1,7 @@
+{
+  "$schema": "https://raw.githubusercontent.com/cloudflare/wrangler/main/templates/worker/migrate/wrangler.jsonc",
+  "name": "portfolio-studio-capture",
+  "main": "browser-worker.js",
+  "compatibility_date": "2026-09-01",
+  "browser": { "binding": "BROWSER" }
+}

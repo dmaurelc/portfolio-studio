@@ -2,8 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Portfolio Capture Studio",
+  title: "Portfolio Studio",
   description: "Captura y personaliza múltiples sitios para tu portfolio.",
+  themeColor: "#0a0a0a",
   other: {
     "codex-preview": "development",
   },
